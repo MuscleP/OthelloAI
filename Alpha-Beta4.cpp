@@ -6,7 +6,7 @@
 #include <ctime>
 #include <queue>
 
-struct Point {  
+struct Point {   
     int x, y;
 	Point() : Point(0, 0) {}
 	Point(int x, int y) : x(x), y(y) {}
